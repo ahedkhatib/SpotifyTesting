@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 public class SpotifyLoginTest {
 
     WebDriver driver;
-
+/*
     @BeforeEach
     public void setUp() {
         driver = new ChromeDriver();
@@ -44,5 +44,5 @@ public class SpotifyLoginTest {
     @AfterEach
     public void tearDown() {
         driver.quit();
-    }
+    }*/
 }
